@@ -16,6 +16,10 @@ const navLinks = [
     link: "#testimonials",
   },
 ];
+window.scrollTo({
+  top: 1000,
+  behavior: 'smooth'
+});
 
 const words = [
   { text: "Ideas", imgPath: "/images/ideas.svg" },
