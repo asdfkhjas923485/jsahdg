@@ -53,37 +53,40 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                called Ryde
+                First Book Published: A Journey of Dedication and Dreams Realized
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS for a fast,
-                user-friendly experience.
+                Finally dropped my first book! It’s all about celebrating every little thing — the ups, the downs, and everything in between. Grab your copy and let’s celebrate together! 🎉📖
+
+
               </p>
             </div>
           </div>
 
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={libraryRef}>
-              <div className="image-wrapper bg-[#FFEFDB]">
+              <div className="image-wrapper bg-[#f0f0f0]">
                 <img
                   src="/images/project2.png"
                   alt="Library Management Platform"
                 />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>Meet the Squad — Threads.</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
-              <div className="image-wrapper bg-[#FFE7EB]">
+              <div className="image-wrapper bg-[#f0f0f0]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2>I designed and developed this clean.</h2>
             </div>
           </div>
+          
         </div>
       </div>
+      
     </div>
+    
   );
 };
 
