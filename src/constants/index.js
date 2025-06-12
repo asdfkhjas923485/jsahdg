@@ -77,19 +77,22 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    imgPath: "/images/skill.png",
+    title: "My Skill",
+    desc: "Harnessing expertise and craftsmanship to deliver exceptional outcomes in every project.",
+    link: "https://maarifalawii-kd7s.vercel.app/", // Ganti dengan URL keterampilan yang sesuai
   },
   {
     imgPath: "/images/chat.png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    title: "Impact",
+    desc: "Creating meaningful connections and influencing positive change through clear and effective communication.",
+    link: "https://maarifalawii-kd7s.vercel.app/", // Ganti dengan URL dampak yang sesuai
   },
   {
-    imgPath: "/images/time.png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    imgPath: "/images/medal-.png",
+    title: "Certifications",
+    desc: "Acquiring recognized credentials that reflect dedication and mastery in various fields.",
+    link: "https://maarifalawii-kd7s.vercel.app/", // Ganti dengan URL sertifikasi yang sesuai
   },
 ];
 
