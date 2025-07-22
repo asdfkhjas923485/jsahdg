@@ -155,8 +155,8 @@ const techStackIcons = [
 const expCards = [
   {
     review: "AL is professional, communicative, and always ensures projects finish on time with great results.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo1.png",
+    imgPath: "",
+    logoPath: "",
     title: "Project Manager",
     date: "January 2021 - Present",
     responsibilities: [
